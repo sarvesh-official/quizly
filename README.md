@@ -1,2 +1,2 @@
 # Quizly
- Fronend CA-4
+A Quiz App build with React , Tailwind CSS
