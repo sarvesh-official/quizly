@@ -25,7 +25,9 @@ function App() {
         >
           <img
             src={
-              darkmode ? "../public/dark/mode.png" : "../public/light/mode.png"
+              darkmode
+                ? "https://images2.imgbox.com/9f/9c/6Z8rhhVT_o.png"
+                : "https://images2.imgbox.com/c1/78/nCQBzcyI_o.png"
             }
           />
         </button>
